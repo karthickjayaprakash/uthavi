@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "719069922578",
+    "project_id": "uthavi-1a19a",
+    "storage_bucket": "uthavi-1a19a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719069922578:android:d160fcba37b5c6a0295fcb",
+        "android_client_info": {
+          "package_name": "com.rithiv.busz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719069922578-pn6hqiip0cmfsfnfdujl3me5b6g1p2vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQF8ddTDoGfBepe9fYEowAEwGFw-tlLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719069922578-pn6hqiip0cmfsfnfdujl3me5b6g1p2vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719069922578:android:5010da75633e6066295fcb",
+        "android_client_info": {
+          "package_name": "com.rithiv.uthavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719069922578-pn6hqiip0cmfsfnfdujl3me5b6g1p2vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQF8ddTDoGfBepe9fYEowAEwGFw-tlLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719069922578-pn6hqiip0cmfsfnfdujl3me5b6g1p2vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
